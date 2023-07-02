@@ -7,7 +7,6 @@ AM-SMART-MANAGEMENT is an advanced smart management system designed to streamlin
 - [Usage](#usage)
 - [Demo Video](#demo-video)
 - [Contributing](#contributing)
-- [License](#license)
 ## Features
 - Inventory management: Optimize stock levels, track inventory, and automate order fulfillment.
 - Sales and customer management: Manage leads, track sales pipeline, and enhance customer relationships.
@@ -16,7 +15,6 @@ AM-SMART-MANAGEMENT is an advanced smart management system designed to streamlin
 - Analytics and reporting: Gain insights with customizable reports and data visualization.
 - User-friendly interface: Intuitive dashboard and responsive design for easy navigation and usage.
 - Scalable and customizable: Modular architecture allows flexibility and customization to meet specific business needs.
-
 ## Installation
 
 Detailed installation instructions and system requirements can be found in the [Installation Guide](installation-guide.md).
@@ -35,7 +33,4 @@ Click the above image to watch the demo video.
 
 Contributions, bug reports, and feature requests are welcome. Feel free to check the [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get involved in the project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
