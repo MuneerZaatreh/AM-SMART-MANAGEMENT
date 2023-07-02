@@ -16,9 +16,12 @@ AM-SMART-MANAGEMENT is an advanced smart management system designed to streamlin
 ## Installation
 For detailed information about our services and how to use them, please visit our website: [am-smart-management.tech](https://am-smart-management.tech/).
 ## Demo Video
-<div style="width: 100%; display: flex; justify-content: center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/JOckQPixyHo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JOckQPixyHo">
+    <img src="https://img.youtube.com/vi/JOckQPixyHo/0.jpg" alt="Watch the demo video" width="100%">
+  </a>
+</p>
 ## Contributing
 
 Contributions, bug reports, and feature requests are welcome. Feel free to check the [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get involved in the project.
