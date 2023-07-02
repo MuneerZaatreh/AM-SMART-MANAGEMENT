@@ -1,7 +1,5 @@
 # AM-SMART-MANAGEMENT
 
-![Project Logo](https://am-smart-management.tech/assets/images/logo2.svg)
-
 AM-SMART-MANAGEMENT is an advanced smart management system designed to streamline operations and enhance efficiency for businesses of all sizes. This comprehensive solution integrates various management modules to simplify processes, improve productivity, and drive organizational growth.
 
 ## Features
@@ -11,10 +9,13 @@ AM-SMART-MANAGEMENT is an advanced smart management system designed to streamlin
 - Finance and accounting: Streamline financial transactions, generate invoices, and monitor budgets.
 - HR and employee management: Track employee information, manage leave requests, and automate payroll.
 - Analytics and reporting: Gain insights with customizable reports and data visualization.
+- E-commerce services: Enable online selling, manage product listings, and process online payments.
 - User-friendly interface: Intuitive dashboard and responsive design for easy navigation and usage.
 - Scalable and customizable: Modular architecture allows flexibility and customization to meet specific business needs.
+
 ## Installation
 For detailed information about our services and how to use them, please visit our website: [am-smart-management.tech](https://am-smart-management.tech/).
+
 ## Demo Video
 ## Enterprise Resource Planning
 <p align="center">
