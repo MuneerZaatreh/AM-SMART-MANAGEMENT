@@ -16,8 +16,7 @@ AM-SMART-MANAGEMENT is an advanced smart management system designed to streamlin
 
 ## Installation
 
-Detailed installation instructions and system requirements can be found in the [Installation Guide](installation-guide.md).
-
+For detailed information about our services and how to use them, please visit our website: [am-smart-management.tech]([[https://www.example.co](https://am-smart-management.tech/)m](https://am-smart-management.tech/)).
 ## Usage
 
 Instructions on how to use AM-SMART-MANAGEMENT and essential guidelines are available in the [User Manual](user-manual.md).
