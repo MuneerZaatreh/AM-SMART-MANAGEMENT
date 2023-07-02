@@ -1,6 +1,6 @@
 # AM-SMART-MANAGEMENT
 
-![Project Logo](logo.png)
+![Project Logo](https://am-smart-management.tech/assets/images/logo2.svg)
 
 AM-SMART-MANAGEMENT is an advanced smart management system designed to streamline operations and enhance efficiency for businesses of all sizes. This comprehensive solution integrates various management modules to simplify processes, improve productivity, and drive organizational growth.
 
