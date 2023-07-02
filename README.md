@@ -22,14 +22,14 @@ For detailed information about our services and how to use them, please visit ou
 ## Demo Video
 ## Enterprise Resource Planning
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JOckQPixyHo" target="_blank">
+  <a href="https://www.youtube.com/watch?v=JOckQPixyHo">
     <img src="https://img.youtube.com/vi/JOckQPixyHo/0.jpg" alt="Watch the demo video" width="100%">
   </a>
 </p>
 
 ## Ecommerce service 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=TnwBNigoqC4&ab_channel=AM-SMART-MANAGEMENT" target="_blank">
+  <a href="https://www.youtube.com/watch?v=TnwBNigoqC4&ab_channel=AM-SMART-MANAGEMENT">
     <img src="https://img.youtube.com/vi/TnwBNigoqC4/0.jpg" alt="Watch the demo video" width="100%">
   </a>
 </p>
