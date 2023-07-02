@@ -2,6 +2,9 @@
 
 AM-SMART-MANAGEMENT is an advanced smart management system designed to streamline operations and enhance efficiency for businesses of all sizes. This comprehensive solution integrates various management modules to simplify processes, improve productivity, and drive organizational growth.
 
+## Build With 
+## [Abdalla Zahaika](https://github.com/AbdallaZahaika)
+## [Muneer Zaatreh](https://github.com/MuneerZaatreh)
 ## Features
 
 - Inventory management: Optimize stock levels, track inventory, and automate order fulfillment.
