@@ -27,7 +27,7 @@ Instructions on how to use AM-SMART-MANAGEMENT and essential guidelines are avai
 
 ## Demo Video
 
-[![Watch the demo video]([https://img.youtube.com/vi/JOckQPixyHo/0.jpg)](https://www.youtube.com/watch?v=JOckQPixyHo](https://www.youtube.com/watch?v=JOckQPixyHo))
+[![Watch the demo video](https://img.youtube.com/vi/JOckQPixyHo/0.jpg)](https://www.youtube.com/watch?v=JOckQPixyHo)
 
 Click the above image to watch the demo video.
 
