@@ -13,20 +13,12 @@ AM-SMART-MANAGEMENT is an advanced smart management system designed to streamlin
 - Analytics and reporting: Gain insights with customizable reports and data visualization.
 - User-friendly interface: Intuitive dashboard and responsive design for easy navigation and usage.
 - Scalable and customizable: Modular architecture allows flexibility and customization to meet specific business needs.
-
 ## Installation
-
-For detailed information about our services and how to use them, please visit our website: [am-smart-management.tech]([https://www.example.com](https://am-smart-management.tech/)).
-## Usage
-
-Instructions on how to use AM-SMART-MANAGEMENT and essential guidelines are available in the [User Manual](user-manual.md).
-
+For detailed information about our services and how to use them, please visit our website: [am-smart-management.tech](https://am-smart-management.tech/).
 ## Demo Video
-
-[![Watch the demo video](https://img.youtube.com/vi/JOckQPixyHo/0.jpg)](https://www.youtube.com/watch?v=JOckQPixyHo)
-
-Click the above image to watch the demo video.
-
+<div style="width: 100%; display: flex; justify-content: center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/JOckQPixyHo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 ## Contributing
 
 Contributions, bug reports, and feature requests are welcome. Feel free to check the [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get involved in the project.
